@@ -1,21 +1,23 @@
-Abstract — 
+
+Project in progress
+## Abstract — 
 Across California, the number of wildfires burning 10,000 acres or more has consistently increased over the past two decades, with ten of the 20 largest wildfires between 1950 and 2023 occurring in 2020 and 2021, and all but two since 2000. Current solutions for detecting and responding to such wildfires, such as helicopters, are cost-inefficient, prone to human error, and lack the ability to cover large areas effectively. 
 This research project aims to develop a Situational Awareness Response Drone, HiloScope, to address these challenges by providing a scalable and cost-efficient alternative. 
 
 
-Project Overview / Background
+## Project Overview / Background
 	HiloScope aims to present an innovative design on how emergencies are handled by providing a cost-effective and practical alternative to helicopters and traditional rapid response teams. Rather than relying on expensive and outdated systems, HiloScope deploys a fleet of drones designed to save lives and resources. These drones use powerful machine learning algorithms like OpenCV, PyTorch, and TensorFlow to detect people, animals, and fires through the onboard Waveshare thermal camera. Once a detection occurs, the drones send real-time updates to an online monitoring system, giving emergency teams the information they need to act quickly and effectively.
 
 
 The project includes every stage of development—from designing and prototyping to manufacturing and rigorous testing—to ensure the drones are dependable and scalable. By reducing the need for human intervention in hazardous conditions, HiloScope streamlines emergency responses, protects property, and, most importantly, saves lives. With a target production cost of just $1000 per drone, this system offers a smart, accessible solution to the increasing demand for faster and more efficient disaster management tools.
 
 
-Objectives
+## Objectives
 The primary goal of the HiloScope initiative is to save lives, reduce costs, and enhance response times during emergencies. By applying lessons learned from existing drone technologies and machine learning applications, the team will explore how to improve these systems while testing the capabilities of the Waveshare thermal camera. The project emphasizes precision, accuracy, and durability, aiming to deliver a global deployment solution for disaster response.
 
 
 
-
+## Contact
 Code developed by Eli Davidson.
 contact & questions: elid@uci.edu
 
