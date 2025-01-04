@@ -6,7 +6,8 @@ This research project aims to develop a Situational Awareness Response Drone, Hi
 
 
 ## Project Overview / Background
-	HiloScope aims to present an innovative design on how emergencies are handled by providing a cost-effective and practical alternative to helicopters and traditional rapid response teams. Rather than relying on expensive and outdated systems, HiloScope deploys a fleet of drones designed to save lives and resources. These drones use powerful machine learning algorithms like OpenCV, PyTorch, and TensorFlow to detect people, animals, and fires through the onboard Waveshare thermal camera. Once a detection occurs, the drones send real-time updates to an online monitoring system, giving emergency teams the information they need to act quickly and effectively.
+
+HiloScope aims to present an innovative design on how emergencies are handled by providing a cost-effective and practical alternative to helicopters and traditional rapid response teams. Rather than relying on expensive and outdated systems, HiloScope deploys a fleet of drones designed to save lives and resources. These drones use powerful machine learning algorithms like OpenCV, PyTorch, and TensorFlow to detect people, animals, and fires through the onboard Waveshare thermal camera. Once a detection occurs, the drones send real-time updates to an online monitoring system, giving emergency teams the information they need to act quickly and effectively.
 
 
 The project includes every stage of development—from designing and prototyping to manufacturing and rigorous testing—to ensure the drones are dependable and scalable. By reducing the need for human intervention in hazardous conditions, HiloScope streamlines emergency responses, protects property, and, most importantly, saves lives. With a target production cost of just $1000 per drone, this system offers a smart, accessible solution to the increasing demand for faster and more efficient disaster management tools.
